@@ -56,6 +56,10 @@ Because high-speed input tools can trigger false positives in pre-compiled binar
 * The author is not responsible for any damage, data loss, or platform bans resulting from the use or misuse of this source code.
 
 ---
+THE BENCHMARKING IS DONE USING CHRONO IN MILLISECONDS AND NOT IN MICROSECONDS DUE TO THE FUNCTION CALL LATENCY <img width="1447" height="922" alt="image" src="https://github.com/user-attachments/assets/a6f003f9-52f6-4b46-b011-21dfa0597aa4" />
+<img width="1918" height="1078" alt="Screenshot 2026-10-25 114818" src="https://github.com/user-attachments/assets/b2ab9dae-372f-454c-8d1e-352e12f473f6" />
+<img width="1918" height="1078" alt="Screenshot 2026-10-25 114818" src="https://github.com/user-attachments/assets/21bf82f8-3ee6-4800-b74b-b9c015d00f49" />
+
 
 ## 📜 License
 
